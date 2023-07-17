@@ -1,6 +1,6 @@
 # validador-de-formulario
 
-# Tecnologia usada
+# Tecnologias usada
 * JavaScript
 * Html
 * css
